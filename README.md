@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georgeblaize" alt="georgeblaize" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/georgeblaize25" target="blank"><img src="https://img.shields.io/twitter/follow/georgeblaize25?logo=twitter&style=for-the-badge" alt="georgeblaize25" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/011/865/108/small_2x/animated-developer-flat-character-full-body-person-4k-footage-with-alpha-channel-online-course-remote-programming-job-color-cartoon-style-illustration-for-motion-graphic-design-and-animation-video.jpg">
 - 🔭 I’m currently working on **Portfolio Website**
 
 - 🌱 I’m currently learning **Node.js**
@@ -14,7 +14,7 @@
 - 💬 Ask me about **Linux,Figma,UI/UX Design**
 
 - 📫 How to reach me **jpurification25@gmail.com**
-<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/011/865/108/small_2x/animated-developer-flat-character-full-body-person-4k-footage-with-alpha-channel-online-course-remote-programming-job-color-cartoon-style-illustration-for-motion-graphic-design-and-animation-video.jpg">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/georgeblaize25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="georgeblaize25" height="30" width="40" /></a>
