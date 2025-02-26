@@ -1,8 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*qBNlFWQ9G_RPVm7tbZaXOw.jpeg)
 <h1 align="center">Hi 👋, I'm Jonathan George Blaize Purification</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/011/865/108/small_2x/animated-developer-flat-character-full-body-person-4k-footage-with-alpha-channel-online-course-remote-programming-job-color-cartoon-style-illustration-for-motion-graphic-design-and-animation-video.jpg">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgeblaize&label=Profile%20views&color=0e75b6&style=flat" alt="georgeblaize" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georgeblaize" alt="georgeblaize" /></a> </p>
@@ -16,7 +14,7 @@
 - 💬 Ask me about **Linux,Figma,UI/UX Design**
 
 - 📫 How to reach me **jpurification25@gmail.com**
-
+<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/011/865/108/small_2x/animated-developer-flat-character-full-body-person-4k-footage-with-alpha-channel-online-course-remote-programming-job-color-cartoon-style-illustration-for-motion-graphic-design-and-animation-video.jpg">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/georgeblaize25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="georgeblaize25" height="30" width="40" /></a>
