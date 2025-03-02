@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **Linux,Figma,UI/UX Design**
+- 💬 Ask me about **C/C++,Python,Java,Linux,Figma,UI/UX Design**
 
 - 📫 How to reach me **jpurification25@gmail.com**
 
