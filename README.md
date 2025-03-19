@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/011/865/108/small_2x/animated-developer-flat-character-full-body-person-4k-footage-with-alpha-channel-online-course-remote-programming-job-color-cartoon-style-illustration-for-motion-graphic-design-and-animation-video.jpg">
 - 🔭 I’m currently working on **Portfolio Website**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **C/C++,Python,Java,Linux,Figma,UI/UX Design**
 
