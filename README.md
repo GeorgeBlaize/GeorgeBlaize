@@ -50,4 +50,4 @@ I'm a passionate developer who loves building meaningful projects and continuous
 
 ## Connect With Me
 - GitHub: [@GeorgeBlaize](https://github.com/GeorgeBlaize)
-- LinkedIn: [Jonathan George Blaize Purification](https://www.linkedin.com/in/jonathan-george-blaize-purification-5780341b2/)
+- LinkedIn: [Jonathan George Blaize Purification](https://www.linkedin.com/in/jonathan-george-blaize-purification/)
