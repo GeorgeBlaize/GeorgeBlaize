@@ -10,7 +10,7 @@ I'm a passionate developer who loves building meaningful projects and continuous
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathan-george-blaize-purification-5780341b2/)
 - ⚡ Fun fact: I enjoy turning ideas into real, working products
 
-## Tech Stack
+
 ## Tech Stack
 <!-- Frontend -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
