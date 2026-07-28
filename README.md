@@ -26,12 +26,10 @@ I'm a passionate developer who loves building meaningful projects and continuous
 - [DevPulse](https://github.com/GeorgeBlaize/DevPulse)
 - [Diabetes Prediction Project](https://github.com/GeorgeBlaize/diabetes-prediction-project)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgeBlaize&show_icons=true&theme=radical)
+## GitHub Stats & Badges
+[![Followers](https://img.shields.io/github/followers/GeorgeBlaize?label=Followers&style=for-the-badge)](https://github.com/GeorgeBlaize)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeBlaize&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeorgeBlaize&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeorgeBlaize&theme=radical)](https://github.com/GeorgeBlaize)
 
 ## Connect With Me
 - GitHub: [@GeorgeBlaize](https://github.com/GeorgeBlaize)
