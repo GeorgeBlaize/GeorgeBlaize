@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Jonathan George Blaize Purification banner" width="100%" />
+<img src="https://github.com/user-attachments/assets/f974c23a-8323-4cc4-b5ea-716035bfca3b" 
+     alt="Jonathan George Blaize Purification banner" 
+     width="100%" />
 
 # Jonathan George Blaize Purification
 ### Fullstack Developer · MERN · Next.js · TypeScript
