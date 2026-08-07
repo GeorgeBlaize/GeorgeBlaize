@@ -1,53 +1,75 @@
-# Hi, I'm Jonathan George Blaize Purification 👋
+<div align="center">
+
+<img src="./banner.svg" alt="Jonathan George Blaize Purification banner" width="100%" />
+
+# Jonathan George Blaize Purification
+### Fullstack Developer · MERN · Next.js · TypeScript
+
+📍 Dhaka, Bangladesh &nbsp;·&nbsp; ✉️ jpurification25@gmail.com
+
+<a href="https://github.com/GeorgeBlaize">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/jonathan-george-blaize-purification-5780341b2/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://personal-portfolio-bice-six-66.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:jpurification25@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=GeorgeBlaize&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-I'm a passionate developer who loves building meaningful projects and continuously learning new technologies.
+</div>
 
 ## About Me
-- 🌱 I’m currently learning: modern web development, backend systems, and AI-driven projects
-- 💡 I enjoy: building full-stack applications, solving problems, and creating impactful solutions
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathan-george-blaize-purification-5780341b2/)
+
+I'm a fullstack developer who builds and ships full-stack web applications end to end — from role-based authentication and REST APIs to payment integrations — using the MERN stack, Next.js, and TypeScript. Recently graduated in Computer Science & Engineering (United International University) and looking for an entry-level fullstack role where I can contribute to production systems and keep growing as an engineer.
+
+- 🔭 Currently working on **The Tourist Guide**, a tourism management platform with role-based dashboards and Stripe-powered bookings
+- 🛠️ Also building **GearUp**, a sports & outdoor gear rental marketplace built with Next.js 16, TypeScript, and Prisma/PostgreSQL
+- 🌱 Exploring the Next.js App Router, TanStack Query, and ML integrations with Python
+- 💬 Ask me about React, Node.js/Express, JWT auth, and Stripe payment integrations
 - ⚡ Fun fact: I enjoy turning ideas into real, working products
 
+## Skills
 
-## Tech Stack
-<!-- Frontend -->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,python,java" alt="Languages" />
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" alt="Frontend" />
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" alt="Backend" />
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" alt="Database" />
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,stripe" alt="Tools" />
+</p>
 
-<!-- Backend -->
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+## Featured Projects
 
-<!-- Data / ML -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+| Project | Description | Live | Repo |
+|---|---|---|---|
+| 🏕️ **GearUp** | Full-stack rental marketplace for sports & outdoor gear with role-based dashboards and Stripe checkout | [API](https://gearup-backend-flax.vercel.app) | [Client](https://github.com/GeorgeBlaize/gearup-frontend) · [Server](https://github.com/GeorgeBlaize/gearup-backend) |
+| 🧭 **The Tourist Guide** | Tourism management platform with Firebase auth, Stripe bookings, and community trip stories | [Demo](https://tourist-guide-georgeblaize.netlify.app) | [Client](https://github.com/GeorgeBlaize/tourist-guide-client) · [Server](https://github.com/GeorgeBlaize/tourist-guide-server) |
+| 🧩 **DevPulse** | Issue-tracking REST API with role-based access for contributors and maintainers | [Demo](https://devpulse-b7a2-two.vercel.app/) | [Repo](https://github.com/GeorgeBlaize/DevPulse) |
+| 🩺 **Diabetes Prediction** | ML model predicting diabetes risk, served through a Gradio app | [Demo](https://huggingface.co/spaces/JonathanGeorge25/diabetes-prediction-app) | [Repo](https://github.com/GeorgeBlaize/diabetes-prediction-project) |
 
-<!-- Tooling -->
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## GitHub Stats
 
-### Mapping to your repos
-- `gearup-frontend`: React, JavaScript, HTML, CSS
-- `gearup-backend`: Node.js, Express, MongoDB
-- `DevPulse`: (frontend/backend) React, Node.js
-- `diabetes-prediction-project`: Python, scikit-learn
+<div align="center">
 
-## Projects
-- [GearUp Frontend](https://github.com/GeorgeBlaize/gearup-frontend)
-- [GearUp Backend](https://github.com/GeorgeBlaize/gearup-backend)
-- [DevPulse](https://github.com/GeorgeBlaize/DevPulse)
-- [Diabetes Prediction Project](https://github.com/GeorgeBlaize/diabetes-prediction-project)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GeorgeBlaize&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeBlaize&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
-## GitHub Stats & Badges
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeBlaize&theme=radical&hide_border=true" alt="GitHub Streak" />
+
 [![Followers](https://img.shields.io/github/followers/GeorgeBlaize?label=Followers&style=for-the-badge)](https://github.com/GeorgeBlaize)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeorgeBlaize&theme=radical)](https://github.com/GeorgeBlaize)
-
-## Connect With Me
-- GitHub: [@GeorgeBlaize](https://github.com/GeorgeBlaize)
-- LinkedIn: [Jonathan George Blaize Purification](https://www.linkedin.com/in/jonathan-george-blaize-purification/)
+</div>

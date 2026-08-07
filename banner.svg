@@ -26,9 +26,9 @@
   <text x='360' y='160' class='subtitle'>Passionate Frontend & Full‑Stack Developer</text>
 
   <!-- Short about / bullets -->
-  <text x='360' y='200' class='small'>• Currently working on: GearUp (frontend + backend)</text>
-  <text x='360' y='224' class='small'>• Exploring: Next.js, performance optimization, ML integration</text>
-  <text x='360' y='248' class='small'>• Contact: jpurification25@gmail.com  •  LinkedIn: /in/jonathan-george-blaize-purification-5780341b2</text>
+  <text x='360' y='200' class='small'>• Currently building: GearUp &amp; The Tourist Guide (full-stack, role-based platforms)</text>
+  <text x='360' y='224' class='small'>• Exploring: Next.js App Router, TanStack Query, ML integrations</text>
+  <text x='360' y='248' class='small'>• Dhaka, Bangladesh  •  jpurification25@gmail.com</text>
 
   <!-- Tech badges (external shields) -->
   <g transform='translate(360,265)'>
